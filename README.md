@@ -11,7 +11,8 @@
 | License | [dynaTrace BSD](dynaTraceBSD.txt)
 | Support | [Supported](https://community.compuwareapm.com/community/display/DL/Support+Levels#SupportLevels-Supported)
 | Release history | Version 1.0
-| Download | [MSBuild Tasks for dynaTrace 6.0](dynatrace-msbuild.plugin-6.0.0.6733.zip)
+| Download | [MSBuild Tasks for dynaTrace 6.1](dynatrace-msbuild.plugin-6.1.0.7880.zip)
+| | [MSBuild Tasks for dynaTrace 6.0](dynatrace-msbuild.plugin-6.0.0.6733.zip)
 | | [MSBuild Tasks for dynaTrace 5.6](dynatrace-msbuild.plugin-5.6.0.5713.zip)
 | | [MSBuild Tasks for dynaTrace 5.5](dynatrace-msbuild.plugin-5.5.0.5226.zip)
 
